@@ -15,7 +15,7 @@ To write a Python program to insert 3 elements into a stack and display the inde
 
 ## Program
 
-```python
+```
 stack = []
 
 # Push elements into the stack
@@ -36,3 +36,4 @@ for i in range(len(stack)):
 
 ## Result
 
+Thus, program to type and display the elements pushed and index display using a linked list was implementes and executed successfully.
