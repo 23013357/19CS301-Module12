@@ -32,6 +32,7 @@ print("\nElement at the rear of the queue is", queue[-1])
 
 
 ## OUTPUT
-
+![IMAGE}(https://github.com/23013357/19CS301-Module12/blob/main/m12-4.png)
 
 ## RESULT
+Thus, program to add 4 elements to a queue and print the elements present at the front and rear of the queue was implemented and executed successfully.
