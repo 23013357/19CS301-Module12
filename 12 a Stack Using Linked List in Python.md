@@ -41,7 +41,9 @@ print("Stack after pop:")
 print(stack)
 ```
 ## OUTPUT
+![IMAGE](https://github.com/23013357/19CS301-Module12/blob/main/m12-1.png?raw=true)
 
 ## RESULT
+Thus, program to type and display the elements pushed into a stack using a linked list was implementes and executed successfully.
 
 
