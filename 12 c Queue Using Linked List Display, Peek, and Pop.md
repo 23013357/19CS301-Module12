@@ -33,5 +33,6 @@ for i in range(len(queue)):
 ##OUTPUT
 
 ![IMAGE](https://github.com/23013357/19CS301-Module12/blob/main/m12-3.png?raw=true)
+
 ##RESULT
 Thus, program to type and display the elements peak and pop using a linked list was implementes and executed successfully.
