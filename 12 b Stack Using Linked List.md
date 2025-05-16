@@ -32,7 +32,7 @@ for i in range(len(stack)):
 ```
 
 ## Output
-
+![IMAGE](https://github.com/23013357/19CS301-Module12/blob/main/module%2012-2.png)
 
 ## Result
 
