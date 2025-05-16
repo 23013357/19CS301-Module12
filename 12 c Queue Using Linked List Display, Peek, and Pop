@@ -34,3 +34,4 @@ for i in range(len(queue)):
 
 ![IMAGE]()
 ## RESULT
+Thus, program to type and display the elements peak and pop using a linked list was implementes and executed successfully.
