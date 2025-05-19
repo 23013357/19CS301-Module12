@@ -1,4 +1,4 @@
-# Ex.No 12.b Stack Using Linked List – full or not
+# Ex.No 12.e Stack Using Linked List – full or not
 
 ## Aim
 
@@ -33,7 +33,7 @@ else:
 ```
 
 ## Output
-![IMAGE](https://github.com/23013357/19CS301-Module12/blob/main/module%2012-2.png)
+![IMAGE](https://github.com/23013357/19CS301-Module12/blob/main/modul%2012.png)
 
 ## Result
 
